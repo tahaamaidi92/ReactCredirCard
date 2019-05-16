@@ -1,33 +1,137 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+@import url('https://fonts.googleapis.com/css?family=Macondo+Swash+Caps');
+.section{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 100%
 }
-
-.App-link {
-  color: #61dafb;
+.div1{
+  background-image: url('./components/images/background.jpg');
+  width: 600px;
+  height: 320px;
+  position : relative;
+  margin: 15% 15%;
+padding: 20px;
+border: 1px solid white;
+border-radius: 20px;
+margin-left: 100px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.title{
+  margin-left: 350px;
+  position: absolute;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgb(255, 255, 255);
+  top: 0; 
   }
-  to {
-    transform: rotate(360deg);
+  .div1-1{
+      position: absolute;
+      display: flex;
+      flex-direction: column;
+      margin-top: 90px  
   }
-}
+  .logo{
+      width: 85px;
+      height: 66px;
+      margin-left: 50px
+  }
+  .craditNumber{
+      width: 350px;
+      height: 32px;
+      background-color: #2F7E73;
+      color: #BDC07E;
+      margin-left: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: normal;
+  }
+  .div2-1{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      position: absolute;
+      margin-top: 220px;
+      width: 316px;
+      height: 40px;
+  }
+  .h-div2-1{
+  margin-left: 50px;
+  margin-top: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgb(255, 255, 255)
+  }
+  .valid{
+      margin-left: 180px;
+      margin-top: 10px;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 15px;
+      font-weight: 400;
+      line-height: normal;
+      color: rgb(255, 255, 255)
+  }
+  .month{
+      margin-left: 10px;
+      margin-top: 1px; 
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 15px;
+      font-weight: 400;
+      line-height: normal;
+      color: rgb(255, 255, 255)
+  }
+  .span{
+      font-size: 30px;
+      font-weight: 700; 
+  }
+  .div3-1{
+      position: absolute;
+      display: flex;
+      justify-content: space-between;
+      margin-top: 257px;
+      width: 450px;
+  }
+  .h-div3-1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  color: rgb(255, 255, 255);
+  margin-left: 50px;  
+  }
+  .visa{
+      position: absolute;
+      margin-left: 480px;
+      width: 90px;
+      height: 130px;
+      margin-top: -60px;
+  }
+  .div4{
+    margin-top: 350px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height:500px;
+   margin-top: 180px
+  }
+  input{
+    width: 335px;
+    height: 30px;
+    background-color: #2B293B;
+    border-radius: 5px;
+    font-family: 'lato',Arial, Helvetica, sans-serif;
+    font-weight: 100px;
+    color: white;
+    margin: 15px 0;
+  }
+  label{
+ font-family: 'Macondo Swash Caps', cursive;
+ font-size: 25px;
+ font-weight: 100;
+ color: #0799CA
+  }
