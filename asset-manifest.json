@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ReactCredirCard/static/css/main.1ab2f124.chunk.css",
+    "main.js": "/ReactCredirCard/static/js/main.e12c0f93.chunk.js",
+    "main.js.map": "/ReactCredirCard/static/js/main.e12c0f93.chunk.js.map",
+    "runtime~main.js": "/ReactCredirCard/static/js/runtime~main.8efd00f0.js",
+    "runtime~main.js.map": "/ReactCredirCard/static/js/runtime~main.8efd00f0.js.map",
+    "static/js/2.1a2d9fe0.chunk.js": "/ReactCredirCard/static/js/2.1a2d9fe0.chunk.js",
+    "static/js/2.1a2d9fe0.chunk.js.map": "/ReactCredirCard/static/js/2.1a2d9fe0.chunk.js.map",
+    "index.html": "/ReactCredirCard/index.html",
+    "precache-manifest.16e63532bafa469da392b105cea03a8c.js": "/ReactCredirCard/precache-manifest.16e63532bafa469da392b105cea03a8c.js",
+    "service-worker.js": "/ReactCredirCard/service-worker.js",
+    "static/css/main.1ab2f124.chunk.css.map": "/ReactCredirCard/static/css/main.1ab2f124.chunk.css.map",
+    "static/media/App.css": "/ReactCredirCard/static/media/background.20c0f406.jpg",
+    "static/media/pus.png": "/ReactCredirCard/static/media/pus.a8c8030b.png",
+    "static/media/visa.png": "/ReactCredirCard/static/media/visa.007dcb60.png"
+  }
+}
